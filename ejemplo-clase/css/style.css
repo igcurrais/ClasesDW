@@ -31,27 +31,30 @@ p{
 /* header */
 
 
-header{
+/* header{
     background-color: #041562;
     display: flex;
     justify-content: space-between;
     padding: 5px;
     position: sticky;
     top: 0;
-}
+    z-index: 10;
+}*/
 header img{
     width: 80px;  
 }
-
+/*
 header ul{
     list-style-type: none;
     height: 100%;
     display: flex;
     justify-content: space-evenly;
     align-items: center;
-}
+} */
+
+
 nav{
-    width: 40%;
+    width: 100%;
     
 }
 header a{
@@ -141,7 +144,7 @@ header a{
 .destacados img{
     width: 70%;
 }
-
+/* ---------ALQUILER-------------*/
 
 
 /*Nosotros------------------------------------------------------------------------*/
